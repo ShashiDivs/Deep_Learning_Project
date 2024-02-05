@@ -5,9 +5,7 @@ PROJECT_NAME = "Deep learning Project"
 VERSION = "0.0.1"
 AUTHOR = "Shashi"
 DESCRIPTION ="This is project deep learning project"
-
 REQUIREMENTS_FILE_NAME = "requirements_dev.txt"
-
 HYPHEN_E_DOT = "-e ."
 
 
