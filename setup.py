@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 from typing import List
 
-PROJECT_NAME = "Deep learning Project"
+PROJECT_NAME = "XRay"
 VERSION = "0.0.1"
 AUTHOR = "Shashi"
 DESCRIPTION ="This is project deep learning project"
